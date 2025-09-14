@@ -30,7 +30,7 @@ public class TicTacToe {
                 playerMove = "X";
             }
             if (checkInvalidMove(board, row, col, playerMove)) {
-                System.out.println("Invalid move! Cell already occupied.");
+                System.out.println("Invalid move! Try again.");
                 i--; // to allow the same player to play again
                 continue;
             } else {
