@@ -39,7 +39,6 @@ public class TicTacToe {
             printUpdatedBoard(board, row, col, playerMove);
             if (checkWin(board, playerMove)) {
                 System.out.println("Player " + playerMove + " wins!");
-                i = 10; // to exit the loop
                 break;
             }
             if (i == 9) {
