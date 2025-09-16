@@ -5,8 +5,7 @@
     A classic <strong>Tic Tac Toe</strong> built with a Java backend (core game logic) and a simple web frontend using <strong>HTML, CSS, and JavaScript</strong>. Players click cells to make moves, see the active turn, and the app detects wins and draws automatically.
   </p>
   <p>
-    Repository: <a href="https://github.com/ishikacodespace/Tic-Tac-Toe-Game">github.com/ishikacodespace/Tic-Tac-Toe-Game</a>
-  </p>
+https://ishikacodespace.github.io/Tic-Tac-Toe-Game/  </p>
   <hr>
 </section>
 
@@ -77,3 +76,4 @@ java -cp src TicTacToe
     <li>UI is responsive and designed to work across desktop and mobile screens.</li>
   </ul>
 </section>
+
